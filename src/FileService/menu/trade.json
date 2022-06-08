@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Convert",
+    "text": "The easiest way to trade",
+    "imageurl": "./image/icons/conver-icon.jpg"
+  },
+  {
+    "title": "Spot",
+    "text": "Trade crypto with advanced tools",
+    "imageurl": "./image/icons/ex-icon.jpg"
+  },
+  {
+    "title": "Margin",
+    "text": "Increase your profits with leverage",
+    "imageurl": "./image/icons/margin-icon.jpg"
+  },
+  {
+    "title": "P2P",
+    "text": "Bank transfer and 100+ options",
+    "imageurl": "./image/icons/pp-icon.jpg"
+  },
+  {
+    "title": "Strategy Trading",
+    "text": "Trading made easy, trade like a pro",
+    "imageurl": "./image/icons/strategy-icon.jpg"
+  },
+  {
+    "title": "Swap Farming",
+    "text": "Swap to earn BNB",
+    "imageurl": "./image/icons/swap-icon.jpg"
+  },
+  {
+    "title": "Fan Token",
+    "text": "Upgrade your fan experience",
+    "imageurl": "./image/icons/fan-icon.jpg"
+  }
+]

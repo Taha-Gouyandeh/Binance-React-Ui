@@ -1,0 +1,56 @@
+[
+  {
+    "pair": "1INCH",
+    "price": "0.00002989",
+    "change": "-9.45%",
+    "condition": "negative"
+  },
+  {
+    "pair": "AAVE",
+    "price": "0.0003784",
+    "change": "-6.73%",
+    "condition": "negative"
+  },
+  {
+    "pair": "ACA",
+    "price": "0.0003784",
+    "change": "-6.73%",
+    "condition": "negative"
+  },
+  {
+    "pair": "ACH",
+    "price": "0.0003784",
+    "change": "+6.73%",
+    "condition": "positive"
+  },
+  {
+    "pair": "ACM",
+    "price": "0.0003784",
+    "change": "+6.73%",
+    "condition": "positive"
+  },
+  {
+    "pair": "ADA",
+    "price": "0.0003784",
+    "change": "-6.73%",
+    "condition": "negative"
+  },
+  {
+    "pair": "ADX",
+    "price": "0.0003784",
+    "change": "-6.73%",
+    "condition": "negative"
+  },
+  {
+    "pair": "AERGO",
+    "price": "0.0003784",
+    "change": "+6.73%",
+    "condition": "positive"
+  },
+  {
+    "pair": "AGIX",
+    "price": "0.0003784",
+    "change": "-6.73%",
+    "condition": "negative"
+  }
+]

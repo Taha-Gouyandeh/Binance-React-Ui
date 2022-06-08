@@ -1,0 +1,166 @@
+#main {
+  background-color: rgb(20, 21, 26);
+  color: white;
+  border-bottom: solid 2px;
+  border-color: rgb(36, 41, 48);
+}
+
+#separate {
+  width: 1px;
+  height: 80%;
+}
+
+#sell-buy-icon {
+  width: 24px;
+  height: 24px;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../image/sell-buy-mode-icon.jpg);
+}
+#sell-buy-btn:checked + #sell-buy-icon {
+  width: 24px;
+  height: 24px;
+  background: url(../image/sell-buy-mode-icon.jpg);
+}
+#sell-icon {
+  width: 24px;
+  height: 24px;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../image/sell-mode-icon.jpg);
+}
+#sell-btn:checked + #sell-icon {
+  width: 24px;
+  height: 24px;
+  background: url(../image/sell-mode-icon.jpg);
+}
+#buy-icon {
+  width: 24px;
+  height: 24px;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../image/buy-mode-icon.jpg);
+}
+#buy-btn:checked + #buy-icon {
+  width: 24px;
+  height: 24px;
+  background: url(../image/buy-mode-icon.jpg);
+}
+
+#custom-select-btc select {
+  background-color: rgb(20, 21, 26);
+  color: white;
+  border: 0;
+}
+#custom-select-btc select option {
+  margin-top: 4px;
+  background-color: rgb(68, 70, 78);
+  color: white;
+  border: 0;
+}
+#sell-buy-part {
+  border-right: solid 2px;
+  border-color: rgb(36, 41, 48);
+}
+
+#market-coin {
+  border-bottom: solid 1px;
+  border-color: rgb(36, 41, 48);
+}
+
+#search-group {
+  padding: 4px;
+  border: none;
+  border-radius: 6px;
+  background-color: rgb(36, 41, 48);
+  display: flex;
+  align-items: center;
+}
+#search-input {
+  background-color: rgba(240, 248, 255, 0);
+  border: none;
+  color: white !important;
+}
+
+#market-activity {
+  border-top: solid 1px;
+  border-color: rgb(36, 41, 48);
+}
+
+#serch-side {
+  border-left: solid 2px;
+  border-color: rgb(36, 41, 48);
+}
+
+#market-trade {
+  margin: 8px 0 8px 0;
+  padding: 12px;
+}
+
+.text-hov:hover {
+  color: rgb(243, 186, 47) !important ;
+  cursor: pointer;
+}
+
+#spot-text {
+  border-top: solid 3px;
+  border-color: rgb(243, 186, 47) !important ;
+  height: 48px;
+
+  width: 120px;
+  background-color: rgb(36, 41, 48);
+}
+
+#spot-x {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  background-color: rgb(20, 21, 26);
+  width: 100%;
+}
+
+#spot {
+  width: 100%;
+  background-color: rgb(36, 41, 48);
+}
+#spot-part {
+  height: 100%;
+  background-color: rgb(36, 41, 48);
+}
+
+.spot-group {
+  padding: 4px;
+  border: none;
+  border-radius: 6px;
+  background-color: rgb(53, 59, 68);
+}
+.spot-input {
+  background-color: rgba(49, 56, 61, 0) !important;
+  border: none;
+  color: white !important;
+}
+
+#price-part {
+  border-left: solid 1px;
+  border-color: rgb(36, 41, 48);
+}
+
+.loginbtn {
+  margin-top: 16px;
+  background-color: rgb(53, 59, 68);
+  width: 100%;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}
+#fixed-bottom-btn {
+  background-color: rgb(36, 41, 48);
+}
+
+#btc-chart {
+  background-color: rgba(255, 255, 255, 0) !important;
+  color: black !important;
+  min-height: 450px !important;
+}
+#chart {
+  min-height: 470px;
+}

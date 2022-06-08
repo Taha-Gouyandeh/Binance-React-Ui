@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Exchange",
+    "text": "BlockChain and crypto asset exchange",
+    "imageurl": "./image/icons/ex-icon.jpg"
+  },
+  {
+    "title": "Academy",
+    "text": "Blockchain and crypto education",
+    "imageurl": "./image/icons/academy-icon.jpg"
+  },
+  {
+    "title": "Broker",
+    "text": "Trading terminal solutions",
+    "imageurl": "./image/icons/broker-icon.jpg"
+  },
+  {
+    "title": "Institutional & VIP Services",
+    "text": "White-glove approach for tailored trading solutions",
+    "imageurl": "./image/icons/ins-vip-icon.jpg"
+  },
+  {
+    "title": "Learn & Earn",
+    "text": "Earn free crypto through learning",
+    "imageurl": "./image/icons/learn-icon.jpg"
+  },
+  {
+    "title": "Charity",
+    "text": "Powering blockchain for good",
+    "imageurl": "./image/icons/charity-icon.jpg"
+  },
+  {
+    "title": "Cloud",
+    "text": "Enterprise exchange solutions",
+    "imageurl": "./image/icons/cloud-icon.jpg"
+  },
+  {
+    "title": "DEX",
+    "text": "Fast and secure decentralized digital asset exchange",
+    "imageurl": "./image/icons/dex-icon.jpg"
+  },
+  {
+    "title": "Lab",
+    "text": "Incubator for top blockchain projects",
+    "imageurl": "./image/icons/labs-icon.jpg"
+  },
+  {
+    "title": "Launchpad",
+    "text": "Token Launch Platform",
+    "imageurl": "./image/icons/launch-icon.jpg"
+  },
+  {
+    "title": "Research",
+    "text": "Institutional-grade analysis and reports",
+    "imageurl": "./image/icons/research-icon.jpg"
+  },
+  {
+    "title": "Trust Wallet",
+    "text": "Binance's official crypto wallet",
+    "imageurl": "./image/icons/trust.jpg"
+  },
+  {
+    "title": "Gift Card",
+    "text": "Customizable crypto gift card",
+    "imageurl": "./image/icons/gift-icon.jpg"
+  },
+  {
+    "title": "Binance Live",
+    "text": "Bringing blockchain broadcasts to you live",
+    "imageurl": "./image/icons/live-icon.jpg"
+  },
+  {
+    "title": "APIs",
+    "text": "Unlimited opportunities with one Key",
+    "imageurl": "./image/icons/apis-icon.jpg"
+  }
+]

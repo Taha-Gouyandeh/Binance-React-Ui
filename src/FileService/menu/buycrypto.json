@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Bank Deposit",
+    "text": "Deposit EUR via SEPA or carde",
+    "imageurl": "./image/icons/bank-icon.jpg"
+  },
+  {
+    "title": "Credit/Debit Card",
+    "text": "Buy crypto via card",
+    "imageurl": "./image/icons/credit-icon.jpg"
+  },
+  {
+    "title": "P2P Trading",
+    "text": "Bank transfer and 100+ options",
+    "imageurl": "./image/icons/pp-icon.jpg"
+  },
+  {
+    "title": "Cash Balance",
+    "text": "Buy Crypto with your EUR balance",
+    "imageurl": "./image/icons/crypto-icon.jpg"
+  },
+  {
+    "title": "Third-party Payment",
+    "text": "Simplex, Banxa (SEPA)",
+    "imageurl": "./image/icons/party-icon.jpg"
+  }
+]

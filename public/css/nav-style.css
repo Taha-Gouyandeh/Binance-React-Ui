@@ -1,0 +1,271 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+.text-small {
+  font-size: 12px;
+}
+.pointer {
+  cursor: pointer;
+}
+#main-head {
+  height: 64px;
+  color: white;
+  background-color: rgb(20, 21, 26);
+  align-items: center;
+}
+
+#img-logo {
+  width: 150px;
+}
+
+#sqr-nav {
+  width: 16px;
+  height: 16px;
+  background-color: white;
+}
+#sqr-nav:hover {
+  background-color: rgb(243, 186, 47);
+}
+
+#img-nav-icon {
+  width: 16px;
+  margin-top: -10px;
+}
+
+#menu-square-open {
+  color: white;
+  min-width: 90vw;
+}
+
+.menu-item a {
+  text-decoration: none;
+  color: white;
+}
+.menu-item {
+  padding: 8px;
+}
+.menu-item:hover {
+  background-color: rgb(41, 47, 54);
+  border-radius: 8px;
+}
+.menu-item:hover .menu-arrow {
+  display: block !important;
+}
+
+#square-menu {
+  display: none;
+  min-width: 90vw;
+  background-color: hsl(213, 15%, 14%);
+  margin-left: -80px;
+}
+
+#img-nav {
+  width: 20px;
+  height: 60px;
+  padding-top: 20px;
+  cursor: pointer;
+}
+
+#sqr-hov {
+  max-width: 20px;
+  max-height: 60px;
+  z-index: 20;
+}
+
+#sqr-hov:hover #square-menu {
+  display: flex;
+  background-color: rgb(30, 35, 41);
+}
+
+.nav-hover {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  color: white;
+  height: 60px;
+  align-items: center;
+}
+.nav-hover small {
+  font-size: 12px;
+  color: black !important;
+  background-color: rgb(243, 186, 47);
+  padding: 0 3px 0 3px;
+  border-radius: 6px;
+}
+.nav-hover:hover {
+  color: rgb(243, 186, 47) !important ;
+  cursor: pointer;
+  height: 60px;
+}
+
+#buycrypto-hov {
+  display: block;
+  flex-direction: column;
+  max-width: 130px;
+  max-height: 60px;
+  margin-left: 5px;
+  z-index: 20;
+}
+#buycrypto-menu {
+  display: none;
+  min-width: 350px;
+}
+#buycrypto-hov:hover #buycrypto-menu {
+  display: flex !important;
+  background-color: rgb(30, 35, 41);
+}
+
+#Trade-hov {
+  max-width: 64px;
+  max-height: 60px;
+  margin-left: 5px;
+  z-index: 20;
+}
+
+#Trade-menu {
+  display: none;
+  min-width: 350px;
+}
+#Trade-hov:hover #Trade-menu {
+  display: block !important;
+  background-color: rgb(30, 35, 41);
+}
+
+#derivarives-hov {
+  max-width: 96px;
+  max-height: 60px;
+  margin-left: 5px;
+  z-index: 20;
+}
+
+#derivarives-menu {
+  display: none;
+  min-width: 350px;
+}
+#derivarives-hov:hover #derivarives-menu {
+  display: block !important;
+  background-color: rgb(30, 35, 41);
+}
+#earn-hov {
+  max-width: 53px;
+  max-height: 60px;
+  margin-left: 5px;
+  z-index: 20;
+}
+
+#earn-menu {
+  display: none;
+  min-width: 50vw;
+}
+#earn-hov:hover #earn-menu {
+  display: block !important;
+  background-color: rgb(30, 35, 41);
+}
+
+#finance-hov {
+  max-width: 73px;
+  max-height: 60px;
+  margin-left: 5px;
+  z-index: 20;
+}
+
+#finance-menu {
+  display: none;
+  min-width: 350px;
+}
+#finance-hov:hover #finance-menu {
+  display: block !important;
+  background-color: rgb(30, 35, 41);
+}
+
+#downloads-hov {
+  max-width: 65px;
+  max-height: 60px;
+  margin-left: 5px;
+  z-index: 20;
+}
+
+#downloads-menu {
+  display: none;
+  min-width: 150px;
+}
+#downloads-hov:hover #downloads-menu {
+  display: flex !important;
+  background-color: rgb(30, 35, 41);
+}
+#qr-code {
+  width: 136px;
+  height: 120px;
+}
+.img-icon {
+  width: 23px;
+}
+
+#second-nav {
+  background-color: rgb(36, 41, 48);
+}
+#second-nav div div p {
+  overflow: hidden;
+  white-space: nowrap;
+}
+#detail {
+  margin: -12px 0 -12px 0;
+}
+.horizontal-seprator {
+  background-color: rgb(36, 41, 48);
+  height: 2px;
+  width: 100%;
+}
+
+#menu-right:checked ~ #navbar-navigation-right {
+  transition: all 1s cubic-bezier(1, 0, 0, 1);
+  right: 0;
+}
+
+#navbar-navigation-right {
+  width: 375px;
+  height: 100vh;
+  background-color: rgb(25, 29, 34);
+  position: fixed;
+  transition: all 1s cubic-bezier(1, 0, 0, 1);
+  right: -375px;
+  z-index: 1000;
+  padding: 16px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+@media only screen and (min-width: 992px) {
+  #navbar-navigation-right::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }
+  #navbar-navigation-right {
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+    scrollbar-width: none; /* Firefox */
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  body::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }
+  body {
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+    scrollbar-width: none; /* Firefox */
+  }
+}
+
+.btn-right-nav {
+  width: 100%;
+  background-color: rgb(25, 29, 34);
+  color: white;
+  padding: 8px 4px 8px 4px;
+}
+.btn-right-nav p {
+  font-size: 16px;
+}
+.btn-right-nav:hover {
+  width: 100%;
+  background-color: rgb(43, 50, 58);
+  color: white;
+}

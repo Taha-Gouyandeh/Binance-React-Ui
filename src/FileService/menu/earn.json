@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Binance Earn",
+    "text": "One-stop Investment Solution",
+    "imageurl": "./image/icons/earn.jpg"
+  },
+  {
+    "title": "Launchpad",
+    "text": "Token Launch Platform",
+    "imageurl": "./image/icons/launch-icon.jpg"
+  },
+  {
+    "title": "Savings",
+    "text": "Your Crypto Savings Account",
+    "imageurl": "./image/icons/saving.jpg"
+  },
+  {
+    "title": "Staking",
+    "text": "Easy Stake, Higher Returns",
+    "imageurl": "./image/icons/staking.jpg"
+  },
+  {
+    "title": "BNB Vault",
+    "text": "Earn Multi-benefits with BNB",
+    "imageurl": "./image/icons/bnb-icon.jpg"
+  },
+  {
+    "title": "Dual Investment",
+    "text": "Commit your crypto holdings and enjoy high returns",
+    "imageurl": "./image/icons/dual-icon.jpg"
+  },
+  {
+    "title": "Liquidity Farming",
+    "text": "Add liquidity and earn double",
+    "imageurl": "./image/icons/liquidity.jpg"
+  },
+  {
+    "title": "Auto-Invest",
+    "text": "Accumulate crypto on autopilot",
+    "imageurl": "./image/icons/auto-icon.jpg"
+  },
+  {
+    "title": "Binance Pool",
+    "text": "Mine more rewards by connecting to the pool",
+    "imageurl": "./image/icons/pool-icon.jpg"
+  }
+]

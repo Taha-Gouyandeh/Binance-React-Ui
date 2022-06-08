@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Binance Visa Card",
+    "text": "Convert and pay with crypto worldwide",
+    "imageurl": "./image/icons/visa-icon.jpg"
+  },
+  {
+    "title": "Crypto Loans",
+    "text": "Get an instant loan secured by crypto assets",
+    "imageurl": "./image/icons/crypto-icon.jpg"
+  },
+  {
+    "title": "Binance Pay",
+    "text": "Send and spend crypto at zero fees",
+    "imageurl": "./image/icons/pay-icon.jpg"
+  }
+]
